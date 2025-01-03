@@ -1,6 +1,4 @@
 # HashMap-Implementation
-### README for CS261 Assignment 6: HashMap Implementation
-
 ---
 
 #### Overview
